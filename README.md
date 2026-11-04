@@ -1,0 +1,3 @@
+{"schemaVersion":1,"id":"Andre Client","version":"1.0.0","entrypoints":{"main":["net.java.h"]}}
+{"compatibleMinecraftVersions":"*","namespace":"fullbright","displayName":"Full Bright","uuid":"53bedd23-02b4-4265-af05-786bb49624cd","name":"Full Bright","mainClass":"net.java.s","description":"Allows you to change the brightness of the game to full bright","version":1,"author":"L3nnart_","category":4,"icon":"https://dl.lennartloesche.de/fullbright/logo.png","meta":[]}
+{"uuid":"74b5ddc5-d6b9-4e68-9d1e-d55766c6b282","name":"Full Bright","mainClass":"net.java.r","description":"Allows you to change the brightness of the game to full bright","version":1,"author":"L3nnart_","category":4,"icon":"https://dl.lennartloesche.de/fullbright/logo.png"}
